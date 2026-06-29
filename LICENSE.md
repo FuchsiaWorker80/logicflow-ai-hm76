@@ -1,4 +1,4 @@
-# 
+# Exclusivo LogicFlow script. Baixe e instale com acesso à API e pronto para integração — rápido, seguro e fácil de usar.
 
 
 
